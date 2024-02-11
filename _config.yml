@@ -10,7 +10,7 @@ owner:
   avatar: avatar.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: yzj@mail.bnu.edu.cn
-  cv: https://zhijie-yi.github.io/file/ZhijieYiCV.pdf
+  cv: https://zhijie-yi.github.io/file/ZhijieYi-CV.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
   github: Zhijie-Yi
@@ -43,7 +43,7 @@ links:
   - title: Projects
     url: /projects/
   - title: CV
-    url: /file/ZhijieYiCV.pdf
+    url: /file/ZhijieYi-CV.pdf
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
