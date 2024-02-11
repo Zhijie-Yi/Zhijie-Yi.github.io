@@ -10,8 +10,7 @@ layout: page
 
 <small>I have two years of work experience in the industry. I possess both design and programming skills, excelling in leveraging programming to create creative tools for designers and the public. Proficient in qualitative research methods, I am particularly passionate about usability in human-computer interaction. My focus is on integrating design and programming expertise to develop innovative, highly usable tools that enhance user experiences. 
 
-<small>If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *<font color='blue'>yzj@mail.bnu.edu.cn</font>*
-
+<small>If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *<font color='blue'>yzj@mail.bnu.edu.cn</font>*  
 
 <br>
 
@@ -23,7 +22,6 @@ layout: page
 
 - <small>**Sep 2022 - June 2025:** Beijing Normal University (Master of design)
 - <small>**Sep 2015 - June 2019:** Hengyang Normal University (Bachelor of arts)
-
 
 <br>
 
