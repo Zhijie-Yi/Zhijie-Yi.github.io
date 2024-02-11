@@ -42,8 +42,6 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: CV
-    url: https://zhijie-yi.github.io/file/ZhijieYiCV.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
