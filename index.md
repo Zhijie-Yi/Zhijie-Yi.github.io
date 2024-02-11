@@ -12,8 +12,11 @@ I have two years of work experience in the industry. I possess both design and p
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *<font color='blue'>yzj[at]mail[dot]bnu[dot]edu[dot]cn</font>*</font>
 
+
 <br>
-  
+
+---
+
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall.**
