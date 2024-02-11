@@ -4,8 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
-
 Here is **Zhijie Yi (易至捷)**.
 
 I'm a second-year graduate student from [Beijing Normal University](https://www.bnu.edu.cn/). My research interests include Human-Computer Interaction, AI-assisted programming and design, Computer-Supported cooperative work, creative programming tools, AI for education, and user-centered design. I am currently working as an intern at the [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/index.htm).   
