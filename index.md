@@ -6,21 +6,21 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Zhijie Yi (易至捷)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me.
+I'm a second-year graduate student from [Beijing Normal University](https://www.bnu.edu.cn/). My research interests include Human-Computer Interaction, AI-assisted programming and design, Computer-Supported cooperative work, creative programming tools, AI for education, and user-centered design. I am currently working as an intern at the [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/index.htm).   
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I have two years of work experience in the industry. I possess both design and programming skills, excelling in leveraging programming to create creative tools for designers and the public. Proficient in qualitative research methods, I am particularly passionate about usability in human-computer interaction. My focus is on integrating design and programming expertise to develop innovative, highly usable tools that enhance user experiences. 
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yzj[at]mail[dot]bnu[dot]edu[dot]cn*
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall.**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+- **Sep 2022 - June 2025:** Beijing Normal University (Master of design)
+- **Sep 2015 - June 2019:** Hengyang Normal University (Bachelor of arts)
 
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
 
 <br>
 
@@ -28,28 +28,14 @@ Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Look
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Industrial Automation
-- Network and Cybersecurity
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
+- Human-Computer Interaction
+- AI-assisted programming and design
+- Computer-Supported cooperative work
+- Human-Centered AI
+- AI for education
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on how to make LLM better help people in creative programming, especially improving the matching between prompts and programming logic to form a more systematic AI-assisted programming interaction paradigm.
 
 <br>
 
 ---
-
-## News and Updates
-
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department at Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM**/**ICM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
-<br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
