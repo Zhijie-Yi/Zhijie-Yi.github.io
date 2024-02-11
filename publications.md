@@ -4,40 +4,17 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 28th Dec 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
 ## Conference Paper
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://caihanlin.com/file/404/) (Under Final Revision)<br>*Final year project (FYP)*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium/))<br>Vancouver, Canada. February, 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>*Junior year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>Freshman course design, early project.<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- **From Driver to Passenger: Understanding Evaluation Gaps in "Fantastic" Driving Behaviour Delivery.** (CSCW 2024 Submitted)<br>**Zhijie Yi**, Yueteng Yu, Xiang Chang, Xinyu Yang, Mengdi Chu, Junrong Lu, Yiyao Liu, Jingli Qin, Ye Jin, Jialin Song, Guyue Zhou* and Jiangtao Gong*<br>#### Abstract: The accurate evaluation of driving behaviors is crucial for optimizing and implementing autonomous driving technology in practice. However, there is no comprehensive understanding of good driving behaviors currently. In this paper, we sought to understand driving behaviors from the perspectives of both drivers and passengers. We invited 10 expert drivers and 14 novice drivers to complete a 5.7-kilometer urban road driving task. After the experiments, we conducted semi-structured interviews with 24 drivers and 48 of their passengers (two passengers per driver). Through the analysis of interview data, we found drivers' considerations and efforts to achieve good driving, passengers' assessing logic of driving behaviors, and gaps between these perspectives. Our research provided a systematic understanding of driving behavior design and evaluation for autonomous driving and valuable insights for future autonomous vehicle design. ####
 
   <br>
 
 ## Journal Paper
 
-- Coming soon! 🚀
+- [**An Emotional Design Model for Future Smart Product Based on Grounded Theory.**](https://www.mdpi.com/2079-8954/11/7/377)<br>Chiju Chao, Yu Chen, Hongfei Wu, Wenxuan Wu, **Zhijie Yi**, Liang Xu and Zhiyong Fu*<br>#### Abstract: Recently, smart products have not only demonstrated more functionality and technical capabilities but have also shown a trend towards emotional expression. Emotional design plays a crucial role in smart products as it not only influences users’ perception and evaluation of the product but also promotes collaborative communication between users and the product. In the future, emotional design of smart products needs to be regarded as an important comprehensive design issue, rather than simply targeting a specific element. It should consider factors such as design systems, values, business strategies, technical capabilities, design ethics, and cultural responsibilities. However, currently, there is a lack of a design model that combines these elements. Currently, there are numerous practices in emotional design for smart products from different perspectives. They provide us an opportunity to build a comprehensive design model based on a large number of design case studies. Therefore, this study employed a standardized grounded theory approach to investigate 80 smart products and conducted interviews with 12 designers to progressively code and generate a design model. Through the coding process, this research extracted 547 nodes and gradually formed 10 categories, ultimately resulting in a design model comprising 5 sequential steps. This model includes user requirements, concept definition, design ideation, design implementation, and evaluation, making it applicable to most current and future emotional design issues in smart products. ####
 
   <br>
 
 ---
-
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
-
----
-
-## Undergrad Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Already published a poster paper at AAAI 2024<br>Expect to submit a long paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
-  <br>
