@@ -43,7 +43,7 @@ links:
   - title: Projects
     url: /projects/
   - title: CV
-    url: [a relative link](https://zhijie-yi.github.io/file/ZhijieYiCV.pdf)
+    url: /file/ZhijieYiCV.pdf
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
