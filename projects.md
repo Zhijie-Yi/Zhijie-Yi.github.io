@@ -7,7 +7,8 @@ title: Projects
 
 ## Programmings
 
-- Coming Soon🚀
+- Cyber Dragon Dance Generator
+  ![cover](/images/cyberdragon.png)
 
 ## Design
 
