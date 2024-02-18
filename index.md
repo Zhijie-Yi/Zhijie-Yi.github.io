@@ -34,9 +34,13 @@ layout: page
 - Computer-Supported cooperative work
 - Human-Centered AI
 - AI for education
+- Participatory design, Human-Centered design, Accessible design
 
-My current research focuses on how to make LLM better help people in creative programming, especially improving the matching between prompts and programming logic to form a more systematic AI-assisted programming interaction paradigm.
-
+My current research focus is on how to enable the public to better collaborate with intelligent systems and develop more human-centered algorithms and designs.  
+I am interested in three important questions:  
+- How to make LLM better help people design and program, and assist in design and programming education?
+- How to improve information asymmetry in the interaction between humans and intelligent systems?
+- How to lower the threshold for using intelligent systems and make them accessible to more people?
 <br>
 
 ---
