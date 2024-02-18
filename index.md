@@ -37,7 +37,8 @@ layout: page
 - Participatory design, Human-Centered design, Accessible design
 
 My current research focus is on how to enable the public to better collaborate with intelligent systems and develop more human-centered algorithms and designs.  
-I am interested in three important questions:  
+
+**I am interested in three important questions:**  
 - How to make LLM better help people design and program, and assist in design and programming education?
 - How to improve information asymmetry in the interaction between humans and intelligent systems?
 - How to lower the threshold for using intelligent systems and make them accessible to more people?
