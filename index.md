@@ -36,8 +36,8 @@ layout: page
 - AI for education
 - Participatory design, Human-Centered design, Accessible design
 
-My current research focus is on how to enable the public to better collaborate with intelligent systems and develop more human-centered algorithms and designs.  
-
+My current research focuses on how to enable the public to better collaborate with intelligent systems, developing human-centered algorithms and designs through in-depth user research.  
+<br>
 **I am interested in three overarching questions:**  
 
 - How to make LLM better help people design and program, and assist in design and programming education?
