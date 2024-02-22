@@ -6,7 +6,7 @@ layout: page
 
 <small>Here is **Zhijie Yi (易至捷)**.
 
-<small>I'm a second-year graduate student from [<u>Beijing Normal University</u>](https://www.bnu.edu.cn/). My research interests include Human-Computer Interaction, Computer-Supported cooperative work, Accessible design, user-centered design, Creative collaboration tools, and education. I am currently working as an intern at the [<u>Institute for AI Industry Research, Tsinghua University</u>](https://air.tsinghua.edu.cn/en/index.htm).  
+<small>I'm a second-year graduate student from [<u>Beijing Normal University</u>](https://www.bnu.edu.cn/). My research interests include creativity tools, Human-Computer Interaction, Computer-Supported cooperative work, Accessible design, Participatory design, Creative collaboration tools, and education. I am currently working as an intern at the [<u>Institute for AI Industry Research, Tsinghua University</u>](https://air.tsinghua.edu.cn/en/index.htm).  
 
 <small>I have two years of industry experience and excel at combining design and programming skills to enhance design processes and develop innovative tools for designers and the broader public. Additionally, I possess a solid foundation in qualitative research methods and have a keen interest in the usability aspects of human-computer interaction. My ambition is centered on merging design and programming knowledge to create accessible, user-friendly tools that encourage wider participation in design and creative endeavors. Currently, I am exploring the application and value of AI in this area.  
 
@@ -29,20 +29,19 @@ layout: page
 
 ## Research Interests
 
-- Human-Computer Interaction
-- AI-assisted programming and design
-- Computer-Supported cooperative work
-- Human-Centered AI
-- AI for education
-- Participatory design, Human-Centered design, Accessible design
+- Creativity tools, Improve people's creativity and productivity
+- AI-assisted programming and design, AI for programming and design education
+- The gap between human thinking and computer workflow in CSCW and HCI
+- User experience and accessibility
+- Participatory design, Human-Centered Design, Accessible design
 
-My current research focuses on how to enable the public to better collaborate with intelligent systems, developing human-centered algorithms and designs through in-depth user research.  
+My current research focuses on merging design and programming knowledge to create accessible, user-friendly tools that encourage people wider participate in design and creative endeavors.
 <br>
-**I am interested in three overarching questions:**  
+**I am interested in three overarching questions, which may evolve incrementally or in parallel:**  
 
-- How to make LLM better help people design and program, and assist in design and programming education?
-- How to improve information asymmetry in the interaction between humans and intelligent systems?
-- How to lower the threshold for using intelligent systems and make them accessible to more people?
+- How to develop better creativity tools (design and programming) and improve creative efficiency? (this process will introduce artificial intelligence technologies such as LLM.)
+- How to improve information asymmetry in the interaction between humans and intelligent systems? (For instance, in AI-assisted programming, achieving optimal results often requires users to employ technical programming terminology or logic in their instructions, which can elevate the entry barrier.)
+- How to lower the threshold of creativity tools, attract children, the elderly, and people with disabilities, and make creation more diverse? (This challenge prompts a rethinking of how creative tools are designed and interacted with, perhaps with simpler interfaces or control systems.)
 <br>
 
 ---
