@@ -23,4 +23,9 @@ title: Projects
   <br>
   [![cover](/images/writingpal.png)](https://writingpal.ai/)
   <small>Responsible for the user experience design and user interface design of the product.
+
+- [**The interaction between people and space in China’s old communities**](https://drive.google.com/file/d/1ND-7Ln8zFqEkZh9pYF5IKU5YamA595iV/view?usp=sharing)
+  <br>
+  [![cover](/images/community.png)](https://drive.google.com/file/d/1ND-7Ln8zFqEkZh9pYF5IKU5YamA595iV/view?usp=sharing)
+  <small>Very interesting growing public spaces have appeared in many old communities in China. There are certain rules behind this phenomenon of autonomous interaction between people and space. I used participant observation methods to study this phenomenon.
 <br>
