@@ -28,4 +28,9 @@ title: Projects
   <br>
   [![cover](/images/community.png)](https://drive.google.com/file/d/1ND-7Ln8zFqEkZh9pYF5IKU5YamA595iV/view?usp=sharing)
   <small>Very interesting growing public spaces have appeared in many old communities in China. There are certain rules behind this phenomenon of autonomous interaction between people and space. I used participant observation methods to study this phenomenon.
+
+- [**Alzheimer’s elderly care service experience design**](https://drive.google.com/file/d/1U44nynEErOYa-hysTDh2QnCxj1taFHDZ/view?usp=drive_link)
+  <br>
+  [![cover](/images/AD.png)](https://drive.google.com/file/d/1U44nynEErOYa-hysTDh2QnCxj1taFHDZ/view?usp=drive_link)
+  <small>We have designed a product service system for the elderly with Alzheimer's disease, which includes three main dimensions: care services, smart platforms, and environmental space. To improve the predicament of Alzheimer’s care, change society and the public’s understanding of Alzheimer’s disease, enhance the life experience of Alzheimer’s patients, and reshape their humanistic values.
 <br>
