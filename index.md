@@ -29,7 +29,7 @@ layout: page
 
 ## Research Interests
 
-- Creativity tools, Improve people's creativity and productivity
+- Creativity support tools, Improve people's creativity and productivity
 - AI-assisted programming and design, AI for programming and design education
 - The gap between human thinking and computer workflow in CSCW and HCI
 - User experience and accessibility
