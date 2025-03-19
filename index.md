@@ -38,7 +38,7 @@ My current research focuses on driving safety and trust in autonomous driving.
 <br>
 **I am interested in three overarching questions, which may evolve incrementally or in parallel:**  
 
-- How to predict the driver's fatigue state after a long window through physiological data? 
+- How to predict the fatigue state of drivers after a long time through physiological data?
 - How to use data and models to develop better autonomous driving systems to improve takeover capabilities? 
 - How to improve the interpretability of autonomous driving systems to increase the trust of various traffic participants? 
 <br>
