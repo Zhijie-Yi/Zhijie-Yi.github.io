@@ -6,7 +6,7 @@ layout: page
 
 <small>Here is **Zhijie Yi (易至捷)**.
 
-<small>I'm a third-year graduate student from [<u>Beijing Normal University</u>](https://www.bnu.edu.cn/). My research interests include human factors engineering, human-computer interaction, and computer-supported collaborative work. I am currently working as a research assistant at the [<u>HIS Lab of Hong Kong University of Science and Technology (Guangzhou)<u>](https://personal.hkust-gz.edu.cn/hedengbo/index.html), and I have previously interned at the [<u>Institute for AI Industry Research, Tsinghua University</u>](https://air.tsinghua.edu.cn/en/index.htm).  
+<small>I'm a third-year graduate student from [__Beijing Normal University__](https://www.bnu.edu.cn/). My research interests include human factors engineering, human-computer interaction, and computer-supported collaborative work. I am currently working as a research assistant at the [__HIS Lab of Hong Kong University of Science and Technology (Guangzhou)__](https://personal.hkust-gz.edu.cn/hedengbo/index.html), and I have previously interned at the [__Institute for AI Industry Research, Tsinghua University__](https://air.tsinghua.edu.cn/en/index.htm).  
 
 <small>I have extensive experience in experimental design and strong data analysis skills. My expertise extends to mixed research methods of qualitative and quantitative research. Currently, I have a strong interest in the field of transportation and autonomous driving, and my research revolves around state monitoring and behavior modeling of drivers (or other traffic participants) through multimodal data. I am exploring how to predict driver status through data and models to design safer autonomous driving systems (feedback and takeover). 
 
