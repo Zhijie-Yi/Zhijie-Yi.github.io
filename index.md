@@ -12,10 +12,10 @@ layout: page
 
 <small>If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *<font color='blue'>yzj@mail.bnu.edu.cn</font>*  
 <p align="center">
-  <img src="file/BNU.png" alt="Image 1" width="100">
-  <img src="file/TsingHua.png" alt="Image 2" width="100">
-  <img src="file/HIS.png" alt="Image 3" width="100">
-  <img src="file/TBPS.png" alt="Image 4" width="100">
+  <img src="file/BNU.png" alt="Image 1" height="100">
+  <img src="file/TsingHua.png" alt="Image 2" height="100">
+  <img src="file/HIS.png" alt="Image 3" height="100">
+  <img src="file/TBPS.png" alt="Image 4" height="100">
 </p>
 
 <br>
