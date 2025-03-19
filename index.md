@@ -11,12 +11,6 @@ layout: page
 <small>I have extensive experience in experimental design and strong data analysis skills. My expertise extends to mixed research methods of qualitative and quantitative research. Currently, I have a strong interest in the field of transportation and autonomous driving, and my research revolves around state monitoring and behavior modeling of drivers (or other traffic participants) through multimodal data. I am exploring how to predict driver status through data and models to design safer autonomous driving systems (feedback and takeover). 
 
 <small>If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *<font color='blue'>yzj@mail.bnu.edu.cn</font>*  
-<p align="center">
-  <img src="file/BNU.png" alt="Image 1" height="30">
-  <img src="file/TsingHua.png" alt="Image 2" height="30">
-  <img src="file/HIS.png" alt="Image 3" height="30">
-  <img src="file/TBPS.png" alt="Image 4" height="30">
-</p>
 
 <br>
 
