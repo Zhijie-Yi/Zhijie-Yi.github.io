@@ -6,6 +6,8 @@ title: Publications
 
 
 ## Conference Paper
+- **Trust, Receptivity and Behavior: Pedestrian Interactions with Autonomous Vehicles in Real-World Experiment.** (ASPIRE 2025 Under Review)<br>.
+  Xiang Chang*, **Zhijie Yi***, Hongling Sheng, Yichang Liu, Dengbo He.
 
 - **From Driver to Passenger: Understanding Evaluation Gaps in "Fantastic" Driving Behaviour Delivery.** (Submitted to CSCW 2025)<br>
 **Zhijie Yi**, Yueteng Yu, Xiang Chang, Xinyu Yang, Mengdi Chu, Junrong Lu, Yiyao Liu, Jingli Qin, Ye Jin, Jialin Song, Guyue Zhou, Jiangtao Gong*<br>
