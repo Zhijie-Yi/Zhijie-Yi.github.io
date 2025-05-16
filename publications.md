@@ -5,13 +5,14 @@ title: Publications
 ---
 
 
-## Conference Paper
-- **Trust, Receptivity and Behavior: Pedestrian Interactions with Autonomous Vehicles in Real-World Experiment.** (ASPIRE 2025 Under Review)<br>
-  Xiang Chang, **Zhijie Yi**, Hongling Sheng, Yichang Liu, Dengbo He.
-
-- **From Driver to Passenger: Understanding Evaluation Gaps in "Fantastic" Driving Behaviour Delivery.** (Submitted to CSCW 2025)<br>
-**Zhijie Yi**, Yueteng Yu, Xiang Chang, Xinyu Yang, Mengdi Chu, Junrong Lu, Yiyao Liu, Jingli Qin, Ye Jin, Jialin Song, Guyue Zhou, Jiangtao Gong*<br>
+- **From Driver to Passenger: Understanding Evaluation Gaps in Driving Behaviour Delivery.** (CSCW 2026 Under Review)<br>
+**Zhijie Yi**, Xiang Chang, Yueteng Yu, Xinyu Yang, Mengdi Chu, Junrong Lu, Yiyao Liu, Ye Jin, Jingli Qin, Jiangtao Gong*<br>
 <small>**Abstract:** The accurate evaluation of driving behaviors is crucial for optimizing and implementing autonomous driving technology in practice. However, there is no comprehensive understanding of good driving behaviors currently. In this paper, we sought to understand driving behaviors from the perspectives of both drivers and passengers. We invited 10 expert drivers and 14 novice drivers to complete a 5.7-kilometer urban road driving task. After the experiments, we conducted semi-structured interviews with 24 drivers and 48 of their passengers (two passengers per driver). Through the analysis of interview data, we found drivers' considerations and efforts to achieve good driving, passengers' assessing logic of driving behaviors, and gaps between these perspectives. Our research provided a systematic understanding of driving behavior design and evaluation for autonomous driving and valuable insights for future autonomous vehicle design.
+
+## Conference Paper
+- **The Formation of Trust in Autonomous Vehicles after Interacting with Robotaxis on Public Roads.** (ASPIRE 2025 Accept)<br>
+Xiang Chang#, **Zhijie Yi#**, Hongling Sheng, Yichang Liu, Dengbo He.
+<small>**Abstract:** This study investigates how pedestrian trust, receptivity, and behavior evolve when interacting with Level-4  autonomous vehicles (AVs) at uncontrolled urban intersections in a naturalistic setting. The widespread adoption of AVs can be impeded by public acceptance of them, which was mainly investigated in simulations or field tests that oversimplified the complexity of real-world scenarios. Thus, an experiment was conducted at a commercially Robotaxis operating zone. In total, 33 participants repeatedly crossed an uncontrolled intersection where Level-4 Robotaxis passed through frequently. Participants filled Pedestrian Behavior Questionnaire (PBQ), Pedestrian Receptivity Questionnaire for fully AVs (PRQF), pre- and post-experiment Trust Scale in AVs and Personal Innovativeness Scale (PIS) to measure their behavioral intention, receptivity and trust in AVs, and personal innovativeness. We found that pedestrians' trust in AVs increased after the experiment, with the amplitude of the increase positively associated with the Interaction component in PRQF. In addition, both the Positive and Error subscales in the PBQ significantly influenced the change in trust. The finding informs how trust develops during naturalistic pedestrian–AV interactions, and extends the findings from simulation or field studies by considering the heterogeneity of population characteristics. 
 
 - [**SurrealDriver: Designing LLM-powered Generative Driver Agent Framework based on Human Drivers' Driving-thinking Data.**](https://doi.org/10.1109/IROS58592.2024.10802229) (IROS 2024)<br>
 Ye Jin, Ruoxuan Yang, **Zhijie Yi**, Xiaoxi SHEN, Peng Huiling, Xiaoan Liu, Jingli Qin, Li Jiayang, Peizhong Gao, Guyue Zhou and Jiangtao Gong*<br>
