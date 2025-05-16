@@ -20,7 +20,8 @@ layout: page
 
 **<font color='blue'>[Highlight]</font> I am looking for visiting scholar opportunities in 2026-2028.**
 
-- <small>**Sep 2025 - 2028:** Hong Kong University of Science and Technology (Guangzhou) 
+- <small>**Sep 2025 - 2028:** Hong Kong University of Science and Technology (Guangzhou) (PhD in Intelligent Transportation/Robotics and Autonomous Systems
+)
 - <small>**Sep 2022 - June 2025:** Beijing Normal University (Master of design)
 - <small>**Sep 2015 - June 2019:** Hengyang Normal University (Bachelor of arts)
 
