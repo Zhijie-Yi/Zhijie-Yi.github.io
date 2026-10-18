@@ -2,47 +2,42 @@
 layout: page
 ---
 
-## About Me
+# Zhijie Yi (易至捷)
 
-<small>Here is **Zhijie Yi (易至捷)**.
+**PhD Student in Intelligent Transportation**  
+Hong Kong University of Science and Technology (Guangzhou) · Systems Hub  
+Human-Integrated Systems Lab
 
-<small>I'm a third-year graduate student from [__Beijing Normal University__](https://www.bnu.edu.cn/). My research interests include human factors engineering, human-computer interaction, and computer-supported collaborative work. I am about to pursue a PhD in Intelligent Transportation at the Hong Kong University of Science and Technology (Guangzhou). I have worked as a research assistant at [__Institute for AI Industry Research, Tsinghua University__](https://air.tsinghua.edu.cn/en/index.htm) and [__HIS Lab of Hong Kong University of Science and Technology (Guangzhou)__](https://personal.hkust-gz.edu.cn/hedengbo/index.html).  
+## About
 
-<small>I have extensive experience in experimental design and strong data analysis skills. My expertise extends to mixed research methods of qualitative and quantitative research. Currently, I have a strong interest in the field of transportation and autonomous driving, and my research revolves around state monitoring and behavior modeling of drivers (or other traffic participants) through multimodal data. I am exploring how to predict driver status through data and models to design safer autonomous driving systems (feedback and takeover). 
+I am a PhD student in Intelligent Transportation at the Hong Kong University of Science and Technology (Guangzhou). My research brings together intelligent transportation, artificial intelligence, and human-computer interaction.
 
-<small>If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *<font color='blue'>yzj@mail.bnu.edu.cn</font>*  
+I study how machine learning and deep learning can model human states and driving behaviors from multimodal data, how drivers, passengers, and pedestrians interact with autonomous vehicles and their systems, and how large language models (LLMs), vision-language models (VLMs), and other multimodal foundation models can support driving agents. Across these topics, I combine empirical research in real-world traffic with computational modeling and AI methods.
 
-<br>
+Before my PhD, I completed a Master of Design at Beijing Normal University. My earlier experience in user experience and interaction design, including work with OPPO and WritingPal, informs my approach to designing and evaluating intelligent systems.
 
----
+## Research
 
-## Academic Background
+- **Multimodal state and behavior modeling:** Applying machine learning and deep learning to infer driver alertness, workload, and behavior from physiological, visual, vehicle, and contextual data.
+- **Human–autonomous vehicle interaction:** Studying how drivers, passengers, and pedestrians interact with autonomous vehicles and their systems, including trust, comfort, behavior, and communication.
+- **Multimodal foundation models for driving agents:** Exploring how LLMs, VLMs, and related multimodal models can combine human driving knowledge with visual and contextual information to support driving-agent perception, reasoning, and decision-making.
 
-**<font color='blue'>[Highlight]</font> I am looking for visiting scholar opportunities in 2026-2028.**
+## Selected Work
 
-- <small>**Sep 2025 - 2028:** Hong Kong University of Science and Technology (Guangzhou) (PhD in Intelligent Transportation/Robotics and Autonomous Systems
-)
-- <small>**Sep 2022 - June 2025:** Beijing Normal University (Master of design)
-- <small>**Sep 2015 - June 2019:** Hengyang Normal University (Bachelor of arts)
+- **Alertness-Related Differences in Car-Following Strategy among Truck Drivers Based on Naturalistic Driving Data.** 2026 preprint. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6776638)
+- **The Formation of Trust in Autonomous Vehicles after Interacting with Robotaxis on Public Roads.** Proceedings of the HFES International Annual Meeting, 2025. [Paper](https://doi.org/10.1177/10711813251358236)
+- **SurrealDriver: Designing LLM-powered Generative Driver Agent Framework based on Human Drivers' Driving-thinking Data.** IROS, 2024. [Paper](https://doi.org/10.1109/IROS58592.2024.10802229)
 
-<br>
+[Full publication list](/publications/)
 
----
+## Education
 
-## Research Interests
+- **PhD in Intelligent Transportation**, Hong Kong University of Science and Technology (Guangzhou)
+- **Master of Design**, Beijing Normal University, 2025
+- **Bachelor of Arts**, Hengyang Normal University, 2019
 
-- Driver state monitoring and behavior modeling
-- Interaction between vulnerable road users and autonomous electric vehicles
-- External human-machine interfaces for autonomous vehicles
-- Control tower operator interfaces for fleets of autonomous vehicles
+## Contact
 
-My current research focuses on driving safety and trust in autonomous driving.
-<br>
-**I am interested in three overarching questions, which may evolve incrementally or in parallel:**  
+I welcome conversations and collaborations on intelligent transportation, multimodal modeling, human-computer interaction, and multimodal AI for autonomous driving.
 
-- How to predict the fatigue state of drivers after a long time through physiological data?
-- How to use data and models to develop better autonomous driving systems to improve takeover capabilities? 
-- How to improve the interpretability of autonomous driving systems to increase the trust of various traffic participants? 
-<br>
-
----
+[Email](mailto:yzj@mail.bnu.edu.cn) · [CV](/file/ZhijieYi_CV_202505.pdf) · [Google Scholar](https://scholar.google.com/citations?user=oYVdV1MAAAAJ&hl=zh-CN) · [GitHub](https://github.com/Zhijie-Yi)
