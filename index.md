@@ -47,7 +47,7 @@ Before my PhD, I completed a Master of Design at Beijing Normal University. My e
       <span class="publication-card__meta">Under review · CSCW 2026</span>
       <span class="publication-card__title">From Driver to Passenger: Understanding Evaluation Gaps in Driving Behaviour Delivery</span>
     </div>
-  </article>
+  </div>
 
   <a class="publication-card" href="https://journals.sagepub.com/doi/10.1177/10711813251358236" target="_blank" rel="noopener">
     <div class="publication-card__visual">
