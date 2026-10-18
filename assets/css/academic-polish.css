@@ -448,3 +448,151 @@ body.page {
     font-size: 1rem;
   }
 }
+
+
+/* Homepage publication gallery: native horizontal scroll with snap points. */
+#main article .article-wrap .publication-note {
+  margin: -0.35em 0 1em;
+  color: var(--profile-muted);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+#main article .article-wrap .publication-track {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(245px, 44%);
+  gap: 18px;
+  overflow-x: auto;
+  margin: 0 -2px 1.6em;
+  padding: 2px 2px 14px;
+  overscroll-behavior-x: contain;
+  scroll-padding-inline: 2px;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-color: #9aafb2 #e7edf0;
+  scrollbar-width: thin;
+}
+#main article .article-wrap .publication-track:focus-visible {
+  outline: 3px solid rgba(36, 107, 115, 0.35);
+  outline-offset: 4px;
+}
+#main article .article-wrap .publication-card {
+  box-sizing: border-box;
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid var(--profile-line) !important;
+  border-radius: 12px;
+  background: #fff;
+  color: var(--profile-text) !important;
+  text-decoration: none;
+  scroll-snap-align: start;
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+#main article .article-wrap .publication-card:hover {
+  transform: translateY(-3px);
+  border-color: #c6d6dc !important;
+  box-shadow: 0 10px 24px rgba(29, 48, 66, 0.09);
+}
+#main article .article-wrap .publication-card__visual {
+  position: relative;
+  display: flex;
+  aspect-ratio: 16 / 10;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: #f7f9fa;
+}
+#main article .article-wrap .publication-card__visual img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: contain;
+  background: #fff;
+}
+#main article .article-wrap .publication-card__visual--alertness {
+  background:
+    radial-gradient(circle at 22% 38%, rgba(36, 107, 115, 0.18) 0 9px, transparent 10px),
+    radial-gradient(circle at 50% 38%, rgba(36, 107, 115, 0.32) 0 9px, transparent 10px),
+    radial-gradient(circle at 78% 38%, rgba(36, 107, 115, 0.55) 0 9px, transparent 10px),
+    linear-gradient(135deg, #e8f0f1, #f8f5ef);
+}
+#main article .article-wrap .publication-card__visual--perspectives {
+  background:
+    radial-gradient(circle at 30% 36%, rgba(103, 117, 134, 0.2) 0 17px, transparent 18px),
+    radial-gradient(circle at 70% 36%, rgba(36, 107, 115, 0.25) 0 17px, transparent 18px),
+    linear-gradient(90deg, transparent 49.5%, rgba(36, 107, 115, 0.18) 49.5% 50.5%, transparent 50.5%),
+    linear-gradient(135deg, #f1f3f6, #eaf2f1);
+}
+#main article .article-wrap .publication-card__visual--collaboration {
+  background:
+    radial-gradient(circle at 26% 40%, rgba(36, 107, 115, 0.25) 0 11px, transparent 12px),
+    radial-gradient(circle at 50% 40%, rgba(103, 117, 134, 0.25) 0 11px, transparent 12px),
+    radial-gradient(circle at 74% 40%, rgba(36, 107, 115, 0.4) 0 11px, transparent 12px),
+    linear-gradient(135deg, #edf3f4, #f7f2ea);
+}
+#main article .article-wrap .publication-card__visual-label {
+  position: absolute;
+  bottom: 14px;
+  left: 14px;
+  z-index: 1;
+  color: var(--profile-accent-dark);
+  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+}
+#main article .article-wrap .publication-card__visual-mark {
+  position: absolute;
+  top: 12px;
+  right: 14px;
+  color: rgba(29, 48, 66, 0.35);
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+#main article .article-wrap .publication-card__body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 16px 16px 18px;
+}
+#main article .article-wrap .publication-card__meta {
+  margin-bottom: 0.55em;
+  color: var(--profile-accent-dark);
+  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+  font-size: 0.77rem;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+}
+#main article .article-wrap .publication-card__title {
+  color: var(--profile-ink);
+  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+  font-size: 0.98rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+#main article .article-wrap .publication-card--pending {
+  cursor: default;
+}
+@media (max-width: 760px) {
+  #main article .article-wrap .publication-track {
+    grid-auto-columns: minmax(78%, 82%);
+    gap: 14px;
+  }
+}
+@media (max-width: 420px) {
+  #main article .article-wrap .publication-track {
+    grid-auto-columns: 86%;
+  }
+  #main article .article-wrap .publication-card__body {
+    padding: 14px 14px 16px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  #main article .article-wrap .publication-card {
+    transition: none;
+  }
+}
