@@ -33,18 +33,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About Me
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Projects
-    url: /projects/
-  - title: CV
-    url: /file/ZhijieYi_CV_202505.pdf
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# The homepage is the only navigation destination.\nlinks: []\n# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
 highlighter: rouge
