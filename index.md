@@ -38,7 +38,7 @@ Before my PhD, I completed a Master of Design at Beijing Normal University. My e
     </div>
   </a>
 
-  <article class="publication-card publication-card--pending">
+  <div class="publication-card publication-card--pending" role="group">
     <div class="publication-card__visual publication-card__visual--perspectives" role="img" aria-label="Illustrative visual for the driver and passenger perspectives study">
       <span class="publication-card__visual-label">DRIVER · PASSENGER · EVALUATION</span>
       <span class="publication-card__visual-mark" aria-hidden="true">02</span>
