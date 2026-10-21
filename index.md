@@ -101,4 +101,4 @@ Before my PhD, I completed a Master of Design at Beijing Normal University. My e
 
 I welcome conversations and collaborations on intelligent transportation, multimodal modeling, human-computer interaction, and multimodal AI for autonomous driving.
 
-[Email](mailto:yzj@mail.bnu.edu.cn) · [CV](/file/ZhijieYi_CV_202505.pdf) · [Google Scholar](https://scholar.google.com/citations?user=oYVdV1MAAAAJ&hl=zh-CN) · [GitHub](https://github.com/Zhijie-Yi)
+[Email](mailto:yzj@mail.bnu.edu.cn) · [English CV](/file/ZhijieYi_CV_202610.pdf) · [Google Scholar](https://scholar.google.com/citations?user=oYVdV1MAAAAJ&hl=zh-CN) · [GitHub](https://github.com/Zhijie-Yi)
